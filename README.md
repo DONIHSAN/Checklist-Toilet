@@ -14,7 +14,7 @@
 
 - [Link Pdf Proses Pembuatan](https://bit.ly/3FKylNY)
 
-<img src=https://icon2.cleanpng.com/20180326/sze/kisspng-web-development-github-version-control-commit-github-5ab8a2e1a00529.7598063315220497616555.jpg width="200px">
+<img src=https://assets.stickpng.com/images/5847f98fcef1014c0b5e48c0.png width="150px">
 
 - [Link Web Hosting](https://bit.ly/3FKylNY)
 

@@ -14,7 +14,7 @@
 
 - [Link Pdf Proses Pembuatan](https://bit.ly/3FKylNY)
 
-<img src=https://assets.stickpng.com/images/5847f98fcef1014c0b5e48c0.png width="150px">
+<img src=https://res.cloudinary.com/practicaldev/image/fetch/s--ux15-5qy--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/a12tj8n6facp0kt0xb0n.jpeg width="150px">
 
 - [Link Web Hosting](https://bit.ly/3FKylNY)
 

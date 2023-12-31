@@ -14,7 +14,7 @@
 
 - [Link Pdf Proses Pembuatan](https://bit.ly/3FKylNY)
 
-<img src=https://www.setvalue.net/static/940f4088bc879934235c66a796026b9c/73822/GitHubPages.jpg width="200px">
+<img src=https://icon2.cleanpng.com/20180326/sze/kisspng-web-development-github-version-control-commit-github-5ab8a2e1a00529.7598063315220497616555.jpg width="200px">
 
 - [Link Web Hosting](https://bit.ly/3FKylNY)
 

@@ -1,4 +1,4 @@
-# Tugas Kelompok { Project UAS } <img src=https://seeklogo.com/images/E/elephpant-mascot-php-logo-4C78D1AC4E-seeklogo.com.png width="120px">
+# Project Tugas Kelompok { UAS } <img src=https://seeklogo.com/images/E/elephpant-mascot-php-logo-4C78D1AC4E-seeklogo.com.png width="120px">
 
 |**Nama**|**NIM**|**Kelas**|**Matkul**|
 |----|---|-----|------|
@@ -6,13 +6,13 @@
 |Muhammad Fiqri Setyoadi|312210062|TI.22.A.2|Pemograman Web 1|
 |Thoriq Azhar Fauzan|312210241|TI.22.A.2|Pemograman Web 1|
 
-<img src=https://download.logo.wine/logo/YouTube/YouTube-Logo.wine.png width="200px">
+<img src=https://download.logo.wine/logo/YouTube/YouTube-Logo.wine.png width="150px">
 
 - [Link Dokumentasi YouTube](https://youtu.be/5QuRxGbY0O0)
 
-<img src=https://images.bisnis.com/posts/2021/01/14/1342816/drive.jpg width="200px">
+<img src=https://images.bisnis.com/posts/2021/01/14/1342816/drive.jpg width="150px">
 
-- [Link Pdf Proses Pembuatan](https://bit.ly/3FKylNY)
+- [Link Pdf Proses Pembuatan](http://bit.ly/47eM9eJ)
 
 <img src=https://res.cloudinary.com/practicaldev/image/fetch/s--ux15-5qy--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/a12tj8n6facp0kt0xb0n.jpeg width="150px">
 

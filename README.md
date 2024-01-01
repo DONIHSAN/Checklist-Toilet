@@ -4,11 +4,11 @@
 |----|---|-----|------|
 |Muhammad Ikhsan Fakhrudin|312210019|TI.22.A.2|Pemograman Web 1|
 |Muhammad Fiqri Setyoadi|312210062|TI.22.A.2|Pemograman Web 1|
-|Thoriq Azhar Fauzan|312210241|TI.22.A.2|Pemograman Web 1|
+|Thoriq Azhar Fauzan|312210107|TI.22.A.2|Pemograman Web 1|
 
 <img src=https://download.logo.wine/logo/YouTube/YouTube-Logo.wine.png width="150px">
 
-- [Link Dokumentasi YouTube](https://youtu.be/5QuRxGbY0O0)
+- [Link Dokumentasi YouTube](https://youtu.be/FDjsvgnr0kk)
 
 <img src=https://images.bisnis.com/posts/2021/01/14/1342816/drive.jpg width="150px">
 
@@ -18,7 +18,6 @@
 
 - [Link Demo on Web Hosting](https://bit.ly/3FKylNY)
 
-***Jika Daftar Contributors Belum Muncul , Silahkan Refresh 1 Sampai 2 Kali.***
 
 
 ## Tampilan Pada Halaman Website

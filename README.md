@@ -34,6 +34,13 @@
 
 ![](screenshot/ss3.png)
 
+***Tampilan Tambah Data :*** 
+
+![](screenshot/ss4.png)
+
+***Tampilan Ubah Data :*** 
+
+![](screenshot/ss5.png)
 
 
 

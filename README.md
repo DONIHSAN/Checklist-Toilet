@@ -6,15 +6,15 @@
 |Muhammad Fiqri Setyoadi|312210062|TI.22.A.2|Pemograman Web 1|
 |Thoriq Azhar Fauzan|312210107|TI.22.A.2|Pemograman Web 1|
 
-<img src=https://download.logo.wine/logo/YouTube/YouTube-Logo.wine.png width="150px">
+<img src=https://download.logo.wine/logo/YouTube/YouTube-Logo.wine.png width="130px">
 
-- [Link Dokumentasi YouTube](https://youtu.be/FDjsvgnr0kk)
+- [Link Dokumentasi YouTube](https://youtu.be/GyDch9eYWgE)
 
-<img src=https://images.bisnis.com/posts/2021/01/14/1342816/drive.jpg width="150px">
+<img src=https://images.bisnis.com/posts/2021/01/14/1342816/drive.jpg width="130px">
 
 - [Link Pdf Proses Pembuatan](http://bit.ly/47eM9eJ)
 
-<img src=https://res.cloudinary.com/practicaldev/image/fetch/s--ux15-5qy--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/a12tj8n6facp0kt0xb0n.jpeg width="150px">
+<img src=https://res.cloudinary.com/practicaldev/image/fetch/s--ux15-5qy--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/a12tj8n6facp0kt0xb0n.jpeg width="120px">
 
 - [Link Demo on Web Hosting](https://bit.ly/3FKylNY)
 

@@ -30,7 +30,9 @@
 
 ![](screenshot/ss2.png)
 
-***Tampilan Checklist Toilet :***
+***Tampilan Checklist Toilet :*** 
+
+![](screenshot/ss3.png)
 
 
 

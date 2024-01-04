@@ -14,9 +14,11 @@
 
 - [Link Pdf Proses Pembuatan](http://bit.ly/47eM9eJ)
 
-<img src=https://res.cloudinary.com/practicaldev/image/fetch/s--ux15-5qy--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/a12tj8n6facp0kt0xb0n.jpeg width="120px">
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/000webhost_logo.svg/1200px-000webhost_logo.svg.png width="130px">
 
-- [Link Demo on Web Hosting](https://bit.ly/3FKylNY)
+- [Link Demo on Web Hosting](https://donihsan.000webhostapp.com/)
+
+***( turn off windows security )***
 
 
 

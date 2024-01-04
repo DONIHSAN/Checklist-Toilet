@@ -53,9 +53,11 @@
 
 
 
+### Manfaat dari Project ini :
 
+Membuat sistem checklist kebersihan toilet dengan PHP dan MySQL dapat memberikan beberapa manfaat bagi pengelolaan kebersihan toilet di suatu tempat. beberapa manfaat seperti : Pemantauan Kebersihan , Penjadwalan Pembersihan , Tindak Lanjut Perbaikan serta Dokumentasi dan Pelaporan.
 
-
+Membuat sistem checklist kebersihan toilet dengan PHP dan MySQL memungkinkan pengelolaan kebersihan yang lebih terorganisir, efisien, dan efektif, yang pada gilirannya dapat meningkatkan kualitas lingkungan dan pelayanan.
 
 
 - ***Full Code ? , Please DM :***

@@ -43,6 +43,14 @@
 
 ![](screenshot/ss5.png)
 
+***Tampilan Data Toilet :*** 
+
+![](screenshot/ss6.png)
+
+***Tampilan Tambah Data Toilet :*** 
+
+![](screenshot/ss7.png)
+
 
 
 
